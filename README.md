@@ -1,3 +1,6 @@
+<img width="100" src="https://user-images.githubusercontent.com/78250089/233791570-d79ed3ee-2913-48e2-8fd5-6a377955a254.png"/>
+
+
 ## 1️⃣ 웹 개발 기초 교육 (4/10 ~ 6/9)
 
 | Week    | Lecture                   | Note                                                                                           | Repo                            |
